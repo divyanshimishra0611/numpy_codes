@@ -1,0 +1,1 @@
+This folder contains Assignment 9 of Gen-Ai course and includes tasks of Numpy mathematical and statistical operations.
